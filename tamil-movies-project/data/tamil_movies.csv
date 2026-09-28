@@ -1,0 +1,41 @@
+id,title,year,genre,director,lead_actor,lead_actress,music_director,runtime_minutes,box_office_crores,rating,language
+1,Annamalai,1992,Action,Drama,Suresh Krissna,Rajinikanth,Khushbu,Deva,165,15.5,8.5,Tamil
+2,Baashha,1995,Action,Drama,Suresh Krissna,Rajinikanth,Nagma,Deva,168,22.3,8.7,Tamil
+3,Muthu,1995,Action,Drama,K. S. Ravikumar,Rajinikanth,Meena,A. R. Rahman,172,25.8,8.3,Tamil
+4,Padayappa,1999,Action,Drama,K. S. Ravikumar,Rajinikanth,Soundarya,A. R. Rahman,170,32.5,8.4,Tamil
+5,Sivaji,2007,Action,Drama,S. Shankar,Rajinikanth,Shriya Saran,A. R. Rahman,188,100.2,7.9,Tamil
+6,Enthiran,2010,Sci-Fi,Action,S. Shankar,Rajinikanth,Aishwarya Rai,A. R. Rahman,171,250.0,7.1,Tamil
+7,2.0,2018,Sci-Fi,Action,S. Shankar,Rajinikanth,Amy Jackson,A. R. Rahman,172,400.0,6.8,Tamil
+8,Jailer,2023,Action,Comedy,Nelson Dilipkumar,Rajinikanth,Tamannaah,Anirudh Ravichander,165,650.0,7.8,Tamil
+9,Leo,2023,Action,Thriller,Lokesh Kanagaraj,Vijay,Trisha,Anirudh Ravichander,164,620.0,7.5,Tamil
+10,Varisu,2023,Action,Family,Vamshi Paidipally,Vijay,Rashmika Mandanna,Thaman S,168,280.0,6.8,Tamil
+11,Beast,2022,Action,Comedy,Nelson Dilipkumar,Vijay,Pooja Hegde,Anirudh Ravichander,158,250.0,6.2,Tamil
+12,Master,2021,Action,Thriller,Lokesh Kanagaraj,Vijay,Vijay Sethupathi,Anirudh Ravichander,180,280.0,7.3,Tamil
+13,Bigil,2019,Sports,Drama,Atlee,Vijay,Nayanthara,A. R. Rahman,177,300.0,7.2,Tamil
+14,Sarkar,2018,Action,Thriller,A. R. Murugadoss,Vijay,Keerthy Suresh,A. R. Rahman,164,250.0,6.5,Tamil
+15,Mersal,2017,Action,Thriller,Atlee,Vijay,Nithya Menen,A. R. Rahman,172,260.0,7.0,Tamil
+16,Theri,2016,Action,Thriller,Atlee,Vijay,Samantha,G. V. Prakash Kumar,160,150.0,7.2,Tamil
+17,Kaththi,2014,Action,Thriller,A. R. Murugadoss,Vijay,Samantha,Anirudh Ravichander,165,125.0,7.4,Tamil
+18,Thuppakki,2012,Action,Thriller,A. R. Murugadoss,Vijay,Kajal Aggarwal,Harris Jayaraj,165,120.0,8.0,Tamil
+19,Nanban,2012,Comedy,Drama,Shankar,Vijay,Ileana D'Cruz,Harris Jayaraj,165,85.0,7.3,Tamil
+20,Velayudham,2011,Action,Comedy,M. Raja,Vijay,Hansika Motwani,Vijay Antony,160,75.0,6.5,Tamil
+21,Kaavalan,2011,Action,Romance,Siddique,Vijay,Asin,Vidyasagar,165,65.0,6.8,Tamil
+22,Sura,2010,Action,Drama,S. P. Rajkumar,Vijay,Tamannaah,Mani Sharma,160,50.0,5.2,Tamil
+23,Villu,2009,Action,Comedy,Prabhu Deva,Vijay,Nayanthara,Devi Sri Prasad,165,55.0,5.0,Tamil
+24,Kuruvi,2008,Action,Comedy,Dharani,Vijay,Trisha,Vidyasagar,165,60.0,5.5,Tamil
+25,Pokkiri,2007,Action,Thriller,Prabhu Deva,Vijay,Asin,Mani Sharma,165,80.0,7.5,Tamil
+26,Aathi,2006,Action,Drama,Ramana,Vijay,Trisha,Vidyasagar,165,45.0,5.8,Tamil
+27,Sachein,2005,Romance,Comedy,John Mahendran,Vijay,Genelia D'Souza,Devi Sri Prasad,160,40.0,6.5,Tamil
+28,Ghilli,2004,Action,Sports,Dharani,Vijay,Trisha,Vidyasagar,165,60.0,8.1,Tamil
+29,Thirumalai,2003,Action,Romance,Ramana,Vijay,Jyothika,Vidyasagar,165,35.0,7.2,Tamil
+30,Youth,2002,Romance,Drama,Vincent Selva,Vijay,Shaheen Khan,Mani Sharma,160,25.0,5.5,Tamil
+31,Friends,2001,Comedy,Drama,Siddique,Vijay,Devayani,Deva,165,30.0,7.0,Tamil
+32,Kushi,2000,Romance,Comedy,S. J. Surya,Vijay,Jyothika,Deva,165,35.0,7.8,Tamil
+33,Thulladha Manamum Thullum,1999,Romance,Drama,Ezhil,Vijay,Simran,S. A. Rajkumar,165,28.0,7.9,Tamil
+34,Ninaithen Vandhai,1998,Romance,Drama,Selva,Vijay,Keerthi Reddy,Deva,165,22.0,7.0,Tamil
+35,Kadhalukku Mariyadhai,1997,Romance,Drama,Fazil,Vijay,Shalini,Ilaiyaraaja,165,18.0,8.2,Tamil
+36,Poove Unakkaga,1996,Romance,Drama,Vikraman,Vijay,Sanghavi,S. A. Rajkumar,165,15.0,7.5,Tamil
+37,Coimbatore Mappillai,1996,Comedy,Drama,C. Ranganathan,Vijay,Sanghavi,Vidyasagar,160,12.0,6.8,Tamil
+38,Rasigan,1994,Action,Romance,S. A. Chandrasekhar,Vijay,Sanghavi,Deva,160,8.0,6.5,Tamil
+39,Senthoorapandi,1993,Action,Romance,S. A. Chandrasekhar,Vijay,Vijayakanth,Deva,160,6.0,6.2,Tamil
+40,Naalaiya Theerpu,1992,Action,Drama,S. A. Chandrasekhar,Vijay,Keerthi,Deva,160,5.0,5.8,Tamil

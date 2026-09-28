@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(\"D:\\\\simple trial\\\\tamil_movie_recommender\\\\venv\\\\Scripts\\\\python.exe\" recommender.py)",
+      "Bash(\"D:\\\\simple trial\\\\tamil_movie_recommender\\\\venv\\\\Scripts\\\\streamlit.exe\" run app.py --server.headless true --server.port 8501 --server.enableCORS false)",
+      "Bash(curl -s http://localhost:8501)",
+      "Bash(streamlit run *)"
+    ]
+  }
+}
